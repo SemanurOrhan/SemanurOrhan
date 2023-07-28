@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif)" width="500" height="320" />
+<img align="right" alt="GIF" src="giphy (1).gif" width="500" height="320" />
 
 ## I'm a Computer Engineering Student 👩🏻‍🎓💻, try many different things to find my space 💫!
 - 🔭I'm learning🌱 right now 😂
