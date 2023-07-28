@@ -9,23 +9,28 @@
 - 🧭 Goals for 2023: Determining which field I want to work in🌎 and making new discoveries with what I learned🕵🏻‍♀️
 
 - ⚡ Fun fact: I enjoy swimming🏊‍♀️, roller skating🛼, playing chess♟ and writing poetry✍🏻
-
 <br />
 
+### GitHub Analytics 📊
 
-### 📩 Connect with me:
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
 
+<br />
+<br />
+
+###  📩 Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
 [<img align="left" height="24" width="24" src="instangram.webp" />][instagram]
 [<img align="left" height="24" width="24" src="gmail.webp" />][gmail]
 
-
 <br />
-
 
 [instagram]: https://www.instagram.com/sky_code_weaver
 [linkedin]:https://www.linkedin.com/in/semanur-orhan-262372259/?originalSubdomain=tr
 [gmail]: mailto:semanurorhan24@gmail.com
+
+<br />
 <br />
 
 ### 🔗 Languages and Tools:
