@@ -13,8 +13,8 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F12464%2Fhd-simple-square-blue-linkedin-icon-transparent-png&psig=AOvVaw2RGaZZBT6gUVjyvo-jaBn9&ust=1690660843075000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICQ6eWYsoADFQAAAAAdAAAAABAD"/>][linkedin]
-[<img align="left" height="24" width="24" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Ftr%2Fpng-nwfri&psig=AOvVaw0zbaC4WMnKwPt9yoCUsX62&ust=1690661002066000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKihr5qZsoADFQAAAAAdAAAAABAD" />][instagram]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="linkedin.png"/>][linkedin]
+[<img align="left" height="24" width="24" src="instangram.png" />][instagram]
 [<img align="left" height="24" width="24" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fgmail-icon&psig=AOvVaw0fk3WTkMXhxtIgXmCm3OH-&ust=1690661045324000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiryayZsoADFQAAAAAdAAAAABAD" />][gmail]
 
 
