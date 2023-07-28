@@ -15,7 +15,7 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="linkedin.png"/>][linkedin]
 [<img align="left" height="24" width="24" src="instangram.png" />][instagram]
-[<img align="left" height="24" width="24" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fgmail-icon&psig=AOvVaw0fk3WTkMXhxtIgXmCm3OH-&ust=1690661045324000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiryayZsoADFQAAAAAdAAAAABAD" />][gmail]
+[<img align="left" height="24" width="24" src="gmail.png" />][gmail]
 
 
 <br />
@@ -38,7 +38,7 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][Android]
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][IOS]
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][Xd]
-[<img align="left" alt="Adobe XD" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fcanva-icon%2F&psig=AOvVaw2-LosOF3BmXlbBf3udggjo&ust=1690661575749000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCM4aubsoADFQAAAAAdAAAAABAD" />][Canva]
+[<img align="left" alt="Canva" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fcanva-icon%2F&psig=AOvVaw2-LosOF3BmXlbBf3udggjo&ust=1690661575749000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCM4aubsoADFQAAAAAdAAAAABAD" />][Canva]
 <br />
 
 [Flutter]: https://flutter.dev/
