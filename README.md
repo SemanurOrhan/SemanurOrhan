@@ -26,7 +26,7 @@
 
 <br />
 
-[instagram]: https://www.instagram.com/sky_code_weaver
+
 [linkedin]:https://www.linkedin.com/in/semanur-orhan-262372259/?originalSubdomain=tr
 [gmail]: mailto:semanurorhan24@gmail.com
 
