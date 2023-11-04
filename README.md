@@ -8,7 +8,7 @@
 
 - 🧭 Goals for 2023: Determining which field I want to work in🌎 and making new discoveries with what I learned🕵🏻‍♀️
 
-- ⚡ Fun fact: I enjoy swimming🏊‍♀️, roller skating🛼, playing chess♟ and writing poetry✍🏻
+
 <br />
 
 ### GitHub Analytics 📊
