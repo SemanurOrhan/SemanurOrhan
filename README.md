@@ -21,7 +21,7 @@
 
 ###  📩 Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
-[<img align="left" height="24" width="24" src="instangram.webp" />][instagram]
+
 [<img align="left" height="24" width="24" src="gmail.webp" />][gmail]
 
 <br />
