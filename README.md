@@ -3,11 +3,8 @@
 <img align="right" alt="GIF" src="giphy (2).gif" width="500" height="320" />
 
 ## I'm a Computer Engineering Student 👩🏻‍🎓💻
-- 💫I try many different things to find my space 💫
-- 🔭I'm learning🌱 right now 😂
 
-- 🧭 Goals for 2023: Determining which field I want to work in🌎 and making new discoveries with what I learned🕵🏻‍♀️
-
+<br /><br /><br /><br />
 
 <br />
 
