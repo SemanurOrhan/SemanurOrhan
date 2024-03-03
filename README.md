@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+## I'm a Computer Engineering Student 👩🏻‍💻✨
 <img align="right" alt="GIF" src="giphy (2).gif" width="500" height="320" />
 
-## I'm a Computer Engineering Student 👩🏻‍🎓💻
-
-<br /><br /><br /><br />
 
 <br />
 
@@ -15,6 +13,9 @@
 
 <br />
 <br />
+<br />
+<br />
+<br /><br /><br /><br /><br /><br />
 
 ###  📩 Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
@@ -22,7 +23,7 @@
 [<img align="left" height="24" width="24" src="gmail.webp" />][gmail]
 
 <br />
-
+<br />
 
 [linkedin]:https://www.linkedin.com/in/semanur-orhan-262372259/?originalSubdomain=tr
 [gmail]: mailto:semanurorhan24@gmail.com
@@ -32,11 +33,11 @@
 
 ### 🔗 Languages and Tools:
 
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="GitHub" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png"/>][C++]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png"/>][C++]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][Flutter]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][Python]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][Android]
@@ -45,10 +46,10 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 [<img align="left" alt="Canva" width="26px" src="canva.webp" />][Canva]
 <br />
 
+[Android]: https://www.android.com/
 [Flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [Git]: https://git-scm.com/
-[Android]: https://www.android.com/
 [github]: https://github.com/SemanurOrhan
 [Python]: https://www.python.org/
 [IOS]: https://www.apple.com/ios/ios-14/
