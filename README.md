@@ -17,9 +17,9 @@
 
 <p align="right">
   
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
+  [<img align="right" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
 
-[<img align="left" height="24" width="24" src="gmail.webp" />][gmail]
+  [<img align="right" height="24" width="24" src="gmail.webp" />][gmail]
 
 </p>
 
