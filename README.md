@@ -13,13 +13,12 @@
  
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=transparent" alt="smnr"/>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p align="right">
   
   ### 📩 Connect with me: 
-  <br />
+  
   [<img align="right" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
 
   [<img align="right" height="24" width="24" src="gmail.webp" />][gmail]
