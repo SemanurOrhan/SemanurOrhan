@@ -15,9 +15,9 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<p align="right">
+<p align="right"> 📩 Connect with me: </p>
   
-  ### 📩 Connect with me: 
+<p align="right">
   
   [<img align="right" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
 
