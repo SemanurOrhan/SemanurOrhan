@@ -3,7 +3,7 @@
 
 
 #### GitHub Analytics 📊
-  <img align="right" alt="GIF" src="giphy (2).gif" width="450" height="288" />
+  <img align="right" alt="GIF" src="giphy (2).gif" width="400" height="256" />
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="smnr"/>
 
@@ -14,12 +14,20 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p align="right" > 📩 Connect with me: </p>
+
 <p align="right">
+  
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
+
 [<img align="left" height="24" width="24" src="gmail.webp" />][gmail]
+
 </p>
 
+[linkedin]:https://www.linkedin.com/in/semanur-orhan-262372259/?originalSubdomain=tr
+[gmail]: mailto:semanurorhan24@gmail.com
 
+
+<br /><br /><br /><br /><br />
 
 ### 🔗 Languages and Tools:
 
