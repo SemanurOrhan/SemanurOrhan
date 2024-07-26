@@ -7,9 +7,9 @@
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="smnr"/>
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&show_icons=true&theme=transparent" alt="smnr"/>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=transparent" alt="smnr"/>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p align="right" > 📩 Connect with me: </p>
 
@@ -25,7 +25,7 @@
 [gmail]: mailto:semanurorhan24@gmail.com
 
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 ### 🔗 Languages and Tools:
 
