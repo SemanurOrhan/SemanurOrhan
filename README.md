@@ -1,21 +1,21 @@
-##### Hi there 👋
-### I'm Semanur Orhan, a Computer Engineering Student 👩🏻‍💻✨
+###### Hi there 👋
+#### I'm a Computer Engineering Student 👩🏻‍💻✨
 
 
-#### GitHub Analytics 📊
+##### GitHub Analytics 📊
 
   <img align="right" alt="GIF" src="giphy (2).gif" width="400" height="256" />
-  <br />
+
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="smnr"/>
-
+ 
   <br />
-
+ 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=transparent" alt="smnr"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<p align="right" style="bold" > 📩 Connect with me: </p>
+<p align="right" > 📩 Connect with me: </p>
 
 <p align="right">
   
@@ -29,7 +29,7 @@
 [gmail]: mailto:semanurorhan24@gmail.com
 
 
-<br /><br /><br /><br />
+<br /><br />
 
 ### 🔗 Languages and Tools:
 
