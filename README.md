@@ -3,6 +3,7 @@
 
 
 #### GitHub Analytics 📊
+
   <img align="right" alt="GIF" src="giphy (2).gif" width="400" height="256" />
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="smnr"/>
@@ -25,7 +26,7 @@
 [gmail]: mailto:semanurorhan24@gmail.com
 
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 ### 🔗 Languages and Tools:
 
