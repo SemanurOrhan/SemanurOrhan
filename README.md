@@ -1,8 +1,8 @@
 ##### Hi there 👋
-### I'm a Computer Engineering Student 👩🏻‍💻✨
+## I'm a Computer Engineering Student 👩🏻‍💻✨
 
 
-#### GitHub Analytics 📊
+### GitHub Analytics 📊
 
   <img align="right" alt="GIF" src="giphy (2).gif" width="400" height="256" />
 
@@ -15,12 +15,11 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<p align="right" >
-  
-  ### 📩 Connect with me: </p>
 
 <p align="right">
   
+  ### 📩 Connect with me: 
+  <br />
   [<img align="right" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
 
   [<img align="right" height="24" width="24" src="gmail.webp" />][gmail]
