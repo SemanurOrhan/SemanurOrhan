@@ -19,9 +19,11 @@
   
 <p align="right">
   
-  [<img align="right" alt="linkedin | LinkedIn" width="24px" src="linkedin.webp"/>][linkedin]
+  [<img align="right" alt="linkedin | LinkedIn" height="24px" width="30px" src="linkedin.webp"/>][linkedin]
 
-  [<img align="right" height="24" width="24" src="gmail.webp" />][gmail]
+  [<img align="right" height="20px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />][gmail]
+
+  [<img align="right" height="30px" width="110px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />][stckvrflw]
 
 </p>
 
@@ -56,6 +58,7 @@
 
 [linkedin]:https://www.linkedin.com/in/semanur-orhan-262372259/?originalSubdomain=tr
 [gmail]: mailto:semanurorhan24@gmail.com
+[stckvrflw]:https://stackoverflow.com/users/22823690/semnrr?tab=profile
 
 [w3]:https://www.w3schools.com/
 [react]:https://react.dev/
