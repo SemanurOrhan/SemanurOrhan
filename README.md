@@ -4,7 +4,7 @@
 
 ### GitHub Analytics 📊
 
-  <img align="right" alt="GIF" src="giphy (2).gif" width="400" height="256" />
+  <img align="right" alt="GIF" src="orange_blue_code_girl.gif" width="450" height="288" />
 
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="smnr"/>
