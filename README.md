@@ -19,9 +19,9 @@
   
 <p align="right">
   
-  [<img align="right" alt="linkedin | LinkedIn" height="24px" width="30px" src="linkedin.webp"/>][linkedin]
+  [<img align="right" alt="linkedin | LinkedIn" height="24px" width="30px" src="linkedin.256x256.png"/>][linkedin]
 
-  [<img align="right" height="20px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />][gmail]
+  [<img align="right" height="20px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />][gmail]
 
   [<img align="right" height="30px" width="110px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />][stckvrflw]
 
