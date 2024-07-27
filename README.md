@@ -31,7 +31,7 @@
 [gmail]: mailto:semanurorhan24@gmail.com
 
 
-<br /><br />
+<br /><br /><br /><br />
 
 ### 🔗 Languages and Tools:
 
