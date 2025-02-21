@@ -1,77 +1,62 @@
 ##### Hi there 👋
-## I'm a Computer Engineering Student 👩🏻‍💻✨
+## I'm Semanur Orhan, a Computer Engineering Student 👩🏻‍💻✨
 
+---
 
 ### GitHub Analytics 📊
 
-  <img align="right" alt="GIF" src="orange_blue_code_girl.gif" width="400" height="256" />
+<img align="right" alt="GIF" src="orange_blue_code_girl.gif" width="400" height="256" />
 
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="smnr"/>
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="smnr"/>
- 
-  <br />
- 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=transparent" alt="smnr"/>
+<br />
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=radical" alt="smnr"/>
 
-<p align="right"> 📩 Connect with me: </p>
-  
-<p align="right">
-  
-  [<img align="right" alt="linkedin | LinkedIn" height="24px" width="30px" src="linkedin.256x256.png"/>][linkedin]
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-  [<img align="right" height="20px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />][gmail]
+---
 
-  [<img align="right" height="30px" width="110px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />][stckvrflw]
+### 🔗 Connect with Me:
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/semanur-orhan-262372259/?originalSubdomain=tr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:semanurorhan24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22823690/semnrr?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
 </p>
 
-[linkedin]:https://www.linkedin.com/in/semanur-orhan-262372259/?originalSubdomain=tr
-[gmail]: mailto:semanurorhan24@gmail.com
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+</p>
+
+---
 
 
-<br /><br /><br /><br />
-
-### 🔗 Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vsCode]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][w3]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][w3]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][w3]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][node]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png"/>][C++]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][Flutter]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][Python]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][Android]
-[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][IOS]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][Xd]
-[<img align="left" alt="Canva" width="26px" src="canva.webp" />][Canva]
-
-
-
-
-
-[linkedin]:https://www.linkedin.com/in/semanur-orhan-262372259/?originalSubdomain=tr
-[gmail]: mailto:semanurorhan24@gmail.com
-[stckvrflw]:https://stackoverflow.com/users/22823690/semnrr?tab=profile
-
-[w3]:https://www.w3schools.com/
-[react]:https://react.dev/
-[node]:https://nodejs.org/en
-
-[Android]: https://www.android.com/
-[Flutter]: https://flutter.dev/
-[vsCode]: https://code.visualstudio.com/
-[Git]: https://git-scm.com/
-[github]: https://github.com/SemanurOrhan
-[Python]: https://www.python.org/
-[IOS]: https://www.apple.com/ios/ios-14/
-[Xd]: https://www.adobe.com/products/xd.html
-[Canva]: https://www.canva.com/tr_tr/
-[C++]: https://isocpp.org/
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SemanurOrhan/count.svg" />
+</p>
