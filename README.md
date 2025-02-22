@@ -1,8 +1,3 @@
-##### Hi there 👋
-## I'm Semanur Orhan, a Computer Engineering Student 👩🏻‍💻✨
-
----
-
 ### GitHub Analytics 📊
 
 <div align="center">
@@ -14,7 +9,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=radical" alt="GitHub Stats" />
       </td>
       <td style="border: none; display: flex; align-items: center; justify-content: center;">
-        <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SemanurOrhan/SemanurOrhan/main/orange_blue_code_girl.gif" style="width: 360px; height: 360px; object-fit: cover; border-radius: 10px;" />
+        <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SemanurOrhan/SemanurOrhan/main/orange_blue_code_girl.gif" style="width: 400px; height: 360px; object-fit: cover; border-radius: 10px;" />
       </td>
     </tr>
   </table>
