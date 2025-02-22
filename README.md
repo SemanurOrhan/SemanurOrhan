@@ -6,17 +6,15 @@
 ### GitHub Analytics 📊
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table style="border-collapse: collapse; border: none; width: 100%;">
     <tr>
       <td valign="top" style="border: none;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
         <br />
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=radical" alt="GitHub Stats" />
       </td>
-      <td valign="top" style="border: none;">
-        <div style="width: 300px; height: 300px; overflow: hidden; border-radius: 10px;">
-          <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SemanurOrhan/SemanurOrhan/main/orange_blue_code_girl.gif" style="width: 100%; height: 100%; object-fit: cover;" />
-        </div>
+      <td style="border: none; display: flex; align-items: center; justify-content: center;">
+        <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SemanurOrhan/SemanurOrhan/main/orange_blue_code_girl.gif" style="width: 360px; height: 360px; object-fit: cover; border-radius: 10px;" />
       </td>
     </tr>
   </table>
