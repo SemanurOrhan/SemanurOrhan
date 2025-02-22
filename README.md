@@ -10,11 +10,13 @@
     <tr>
       <td valign="top" style="border: none;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-        <br /><br />
+        <br />
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=radical" alt="GitHub Stats" />
       </td>
-      <td rowspan="2" valign="top" style="border: none;">
-        <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SemanurOrhan/SemanurOrhan/main/orange_blue_code_girl.gif" width="400" height="300" />
+      <td valign="top" style="border: none;">
+        <div style="width: 300px; height: 300px; overflow: hidden; border-radius: 10px;">
+          <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SemanurOrhan/SemanurOrhan/main/orange_blue_code_girl.gif" style="width: 100%; height: 100%; object-fit: cover;" />
+        </div>
       </td>
     </tr>
   </table>
