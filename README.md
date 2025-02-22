@@ -5,15 +5,20 @@
 
 ### GitHub Analytics 📊
 
-<img align="right" alt="GIF" src="orange_blue_code_girl.gif" width="400" height="256" />
-
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="smnr"/>
-
-<br />
-
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=radical" alt="smnr"/>
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td valign="top" style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SemanurOrhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+        <br /><br />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SemanurOrhan&rank_icon=github&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td rowspan="2" valign="top" style="border: none;">
+        <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SemanurOrhan/SemanurOrhan/main/orange_blue_code_girl.gif" width="540" height="400" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -55,6 +60,13 @@
 
 ---
 
+### 🌟 Fun Fact
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Always+learning+new+things!;Turning+coffee+into+code+☕💻;Open+source+enthusiast+❤️" alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center"> 
   Visitor count<br>
